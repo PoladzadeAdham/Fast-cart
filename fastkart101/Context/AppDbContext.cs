@@ -11,6 +11,9 @@ namespace fastkart101.Context
             
         }
 
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Shop> Shops { get; set; }
+        public DbSet<ShopProduct> ShopProducts { get; set; }
 
     }
 }

@@ -317,18 +317,33 @@
 
                                         <div class="onhover-div onhover-div-login">
                                             <ul class="user-box-name">
+
+                                                @if (User.Identity.IsAuthenticated)
+                                                {
+                                                    <li class="product-box-contain">
+                                                        <i></i>
+                                                        <a>@User.Identity.Name</a>
+                                                    </li>
+
+                                                    <li class="product-box-contain">
+                                                        <a asp-action="Logout" asp-controller="Auth">Logout</a>
+                                                    </li>
+                                                }
+                                                else{
                                                 <li class="product-box-contain">
                                                     <i></i>
-                                                    <a href="login.html">Log In</a>
+                                                    <a asp-action="Login" asp-controller="Auth">Log In</a>
                                                 </li>
 
                                                 <li class="product-box-contain">
-                                                    <a href="sign-up.html">Register</a>
+                                                    <a asp-action="Register" asp-controller="Auth">Register</a>
                                                 </li>
 
                                                 <li class="product-box-contain">
                                                     <a href="forgot.html">Forgot Password</a>
                                                 </li>
+                                                }
+
                                             </ul>
                                         </div>
                                     </li>
@@ -1171,7 +1186,7 @@
         </div>
     </header>
     <!-- Header End -->
-            @RenderBody()
+    @RenderBody()
 
     <!-- Footer Section Start -->
     <footer class="section-t-space">

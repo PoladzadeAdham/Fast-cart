@@ -78,14 +78,13 @@ namespace fastkart101.Controllers
                 return View(vm);
             }
 
-            await signInManager.SignInAsync(existUser,false);
+            await signInManager.SignInAsync(existUser,vm.IsRemember);
 
             return RedirectToAction("Index", "Home");
 
 
         }
 
-        [HttpPost]
         public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
