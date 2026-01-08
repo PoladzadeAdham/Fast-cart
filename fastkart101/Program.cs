@@ -1,5 +1,7 @@
+using fastkart101.Abstractions;
 using fastkart101.Context;
 using fastkart101.Models;
+using fastkart101.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -13,6 +15,8 @@ namespace fastkart101
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddScoped<IEmailService, EmailService>();
             builder.Services.AddDbContext<AppDbContext>(option =>
             {
                 option.UseSqlServer(builder.Configuration.GetConnectionString("Default"));

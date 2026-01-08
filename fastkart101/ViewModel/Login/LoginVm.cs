@@ -8,5 +8,6 @@ namespace fastkart101.ViewModel.Login
         public string EmailAddress { get; set; }
         [Required, MaxLength(256), MinLength(3), DataType(DataType.Password)]
         public string Password { get; set; }
+        public bool IsRemember { get; set; }
     }
 }

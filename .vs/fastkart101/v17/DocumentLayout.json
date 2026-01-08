@@ -7,16 +7,40 @@
       "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\viewmodel\\login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\viewmodel\\login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\abstractions\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\abstractions\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\viewmodel\\login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\viewmodel\\login\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\viewmodel\\emailsenderviewmodel\\smtpsettingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\viewmodel\\emailsenderviewmodel\\smtpsettingsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\viewmodel\\register\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\viewmodel\\register\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -43,16 +63,8 @@
       "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|solutionrelative:fastkart101\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04B33A2A-76C1-450B-95B2-48282ADDACF5}|fastkart101\\fastkart101.csproj|c:\\users\\student\\desktop\\carrrrr\\fastkart101\\fastkart101\\migrations\\20260106084042_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -83,6 +95,128 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "fastkart101\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Services\\EmailService.cs",
+              "RelativeToolTip": "fastkart101\\Services\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:52:45.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Abstractions\\IEmailService.cs",
+              "RelativeDocumentMoniker": "fastkart101\\Abstractions\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Abstractions\\IEmailService.cs",
+              "RelativeToolTip": "fastkart101\\Abstractions\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:51:20.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SmtpSettingsVm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\EmailSenderViewModel\\SmtpSettingsVm.cs",
+              "RelativeDocumentMoniker": "fastkart101\\ViewModel\\EmailSenderViewModel\\SmtpSettingsVm.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\EmailSenderViewModel\\SmtpSettingsVm.cs",
+              "RelativeToolTip": "fastkart101\\ViewModel\\EmailSenderViewModel\\SmtpSettingsVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T04:47:59.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "fastkart101\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "fastkart101\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAOIEAAAAAAAAAAAtwPgEAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:46:37.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\appsettings.json",
+              "RelativeDocumentMoniker": "fastkart101\\appsettings.json",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\appsettings.json",
+              "RelativeToolTip": "fastkart101\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T08:36:28.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "fastkart101\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "fastkart101\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:32:59.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Program.cs",
+              "RelativeDocumentMoniker": "fastkart101\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Program.cs",
+              "RelativeToolTip": "fastkart101\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:19:30.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "fastkart101\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "fastkart101\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAowBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T08:31:54.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "fastkart101\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "fastkart101\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T09:21:31.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "fastkart101\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "fastkart101\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADUBAAAAAAAAAAAtwE0BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T08:21:49.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LoginVm.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\Login\\LoginVm.cs",
               "RelativeDocumentMoniker": "fastkart101\\ViewModel\\Login\\LoginVm.cs",
@@ -94,67 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Login.cshtml",
-              "RelativeDocumentMoniker": "fastkart101\\Views\\Auth\\Login.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Login.cshtml",
-              "RelativeToolTip": "fastkart101\\Views\\Auth\\Login.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T09:21:31.959Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "fastkart101\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "fastkart101\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T09:05:49.58Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterVm.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\Register\\RegisterVm.cs",
-              "RelativeDocumentMoniker": "fastkart101\\ViewModel\\Register\\RegisterVm.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\Register\\RegisterVm.cs",
-              "RelativeToolTip": "fastkart101\\ViewModel\\Register\\RegisterVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T08:53:04.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Register.cshtml",
-              "RelativeDocumentMoniker": "fastkart101\\Views\\Auth\\Register.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Auth\\Register.cshtml",
-              "RelativeToolTip": "fastkart101\\Views\\Auth\\Register.cshtml",
-              "ViewState": "AgIAANkEAAAAAAAAAAAAAPgEAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T08:46:37.529Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\appsettings.json",
-              "RelativeDocumentMoniker": "fastkart101\\appsettings.json",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\appsettings.json",
-              "RelativeToolTip": "fastkart101\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-06T08:36:28.692Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "fastkart101\\Models\\AppUser.cs",
@@ -167,31 +241,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "fastkart101\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "fastkart101\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\Register\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "fastkart101\\ViewModel\\Register\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\ViewModel\\Register\\RegisterVm.cs",
+              "RelativeToolTip": "fastkart101\\ViewModel\\Register\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T08:32:59.287Z"
+              "WhenOpened": "2026-01-06T08:53:04.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "fastkart101\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "fastkart101\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T08:31:54.908Z",
-              "EditorCaption": ""
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "fastkart101\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "fastkart101\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-06T09:05:49.58Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "fastkart101\\Views\\Home\\Index.cshtml",
@@ -203,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "fastkart101\\Controllers\\HomeController.cs",
@@ -215,19 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "fastkart101\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "fastkart101\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAIcEAAAAAAAAAAAMwG0AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-06T08:21:49.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20260106084042_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Migrations\\20260106084042_InitialMigration.cs",
               "RelativeDocumentMoniker": "fastkart101\\Migrations\\20260106084042_InitialMigration.cs",
@@ -236,18 +297,6 @@
               "ViewState": "AgIAADQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-06T08:40:42.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Program.cs",
-              "RelativeDocumentMoniker": "fastkart101\\Program.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\carrrrr\\fastkart101\\fastkart101\\Program.cs",
-              "RelativeToolTip": "fastkart101\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-06T08:19:30.78Z"
             }
           ]
         }
