@@ -1,21 +1,21 @@
 using System.Diagnostics;
+using System.Threading.Tasks;
+using fastkart101.Context;
 using fastkart101.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace fastkart101.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController(AppDbContext context) : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+      
 
-        public HomeController(ILogger<HomeController> logger)
+        public async Task<IActionResult> Index()
         {
-            _logger = logger;
-        }
+            var products = await context.Products.ToListAsync();
 
-        public IActionResult Index()
-        {
-            return View();
+            return View(products);
         }
 
         
